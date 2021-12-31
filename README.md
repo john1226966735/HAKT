@@ -6,7 +6,7 @@ Paper download link: https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2021.202109
 ## Data Preparation
 You can download original data form the following links: 
 
-ASSIST09: https://sites.google.com/site/assistmentsdata/datasets/2009-2010-assistment-data
+ASSIST09: https://sites.google.com/site/assistmentsdata/home/2009-2010-assistment-data
 
 ASSIST12: https://sites.google.com/site/assistmentsdata/2012-13-school-data-with-affect
 
