@@ -18,3 +18,4 @@ Statics2011: https://pslcdatashop.web.cmu.edu/DatasetInfo?datasetId=507
 
 Eedi: https://eedi.com/projects/neurips-education-challenge
 
+If you need more information about our experiments, you can contact us via email: hi.zhou@mails.ccnu.edu.cn
