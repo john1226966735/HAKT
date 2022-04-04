@@ -24,8 +24,7 @@ def Reliability(loader, args, k):
     model.eval()
     print("load model done!")
 
-    path = 'C:/Users/zjp/OneDrive - mails.ccnu.edu.cn/CODE/KlgTrc/DataProcess2.0/%s/adj_mat' % args.data_set
-    # ques_skill_mat = np.load(os.path.join(args.data_path, args.data_set, "graph", "ques_skill_mat.npy"))
+    path = '../data/%s/adj_mat' % args.data_set
     ques_skill_mat = np.load(os.path.join(path, "qk_adj.npy"))
     ques_skill_mat = torch.from_numpy(ques_skill_mat).float().to(device)
     ques_template_mat = np.load(os.path.join(path, "qt_adj.npy"))
