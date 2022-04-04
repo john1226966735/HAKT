@@ -3,6 +3,9 @@ This repository contains the source code of our paper: 《基于多层注意力�
 
 Paper download link: https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2021.20210997
 
+# update
+We upload the preprocessed ASSIST09 dataset as data.zip. 
+
 ## Data Preparation
 You can download original data form the following links: 
 
