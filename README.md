@@ -21,4 +21,18 @@ Statics2011: https://pslcdatashop.web.cmu.edu/DatasetInfo?datasetId=507
 
 Eedi: https://eedi.com/projects/neurips-education-challenge
 
+## Cite
+If you find this code useful in your research then please consider citing the following paper:
+```bash
+@article{孙建文2021基于多层注意力网络的可解释认知追踪方法,
+  title={基于多层注意力网络的可解释认知追踪方法},
+  author={孙建文 and 周建鹏 and others},
+  journal={计算机研究与发展},
+  volume={58},
+  number={12},
+  pages={2630},
+  year={2021}
+}
+``` 
+
 If you need more information about our experiments, you can contact us via email: hi.zhou@mails.ccnu.edu.cn
