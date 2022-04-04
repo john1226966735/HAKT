@@ -39,10 +39,8 @@ def parse_args():
     parser.add_argument("--min_seq_len", type=int, default=3)
     parser.add_argument("--max_seq_len", type=int, default=200)
     parser.add_argument("--input", type=str, default='question')
-    parser.add_argument("--data_path", type=str,
-                        default="C:/Users/zjp/OneDrive - mails.ccnu.edu.cn/CODE/KlgTrc/DataProcess2.0")
-    parser.add_argument("--data_set", type=str,
-                        default='ASSIST09')
+    parser.add_argument("--data_path", type=str, default="../data") 
+    parser.add_argument("--data_set", type=str, default='ASSIST09')
 
     '''
     train
