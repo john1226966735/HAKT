@@ -5,10 +5,11 @@ Paper download link: https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2021.202109
 
 # update
 We upload the preprocessed ASSIST09 dataset as data.zip (2022-04-04). 
-We upload a "Package requirements file" as requirements.txt.
+
+We upload the "Package requirements file" as requirements.txt (2022-5-18)
 
 ## Data Preparation
-You can download original data form the following links: 
+You can download original data form the following links: --
 
 ASSIST09: https://sites.google.com/site/assistmentsdata/home/2009-2010-assistment-data
 
